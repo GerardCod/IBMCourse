@@ -1,4 +1,4 @@
-package download;
+package homeworks.download;
 
 /**
  * Downloadable downloads and stores a file, given an url.
