@@ -1,6 +1,6 @@
-## Getting Started
+# IBMCourse
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This is my personal repository to take notes, do the execercises and homeworks of the IBM Microservices course :). 
 
 ## Folder Structure
 
